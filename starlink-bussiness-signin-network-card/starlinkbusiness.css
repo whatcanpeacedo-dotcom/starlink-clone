@@ -46,7 +46,7 @@ nav{
 
        
 .backimg{
-    background-image: url(images/slbusiness1.png);
+    background-image: url(../images/slbusiness1.png);
     background-repeat: no-repeat;
     background-size:cover;
     height: 900px;
@@ -160,7 +160,7 @@ nav{
 /*backimg5 starts here*/
 
 .backimg5{
-    background-image: url(images/slbusiness5.png);
+    background-image: url(../images/slbusiness5.png);
     filter: opacity(85%);
     background-blend-mode: darken;
     background-repeat: no-repeat;

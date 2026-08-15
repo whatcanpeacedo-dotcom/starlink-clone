@@ -262,7 +262,7 @@ header{
 }
        
 .background{
-    background-image: url(images/nightsky1.png);
+    background-image: url(../images/nightsky1.png);
     background-repeat: no-repeat;
     background-size:cover;
     height: 100vh;
@@ -327,7 +327,7 @@ header{
 /* card starts here */
 
 .background2{
-    background-image: url(images/starlink2.jpg);
+    background-image: url(../images/starlink2.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -437,7 +437,7 @@ header{
 /* background3 starts here (3rd section) */
 
 .background3{
-    background-image: url(images/nightsky2.jpg);
+    background-image: url(../images/nightsky2.jpg);
     background-repeat: no-repeat;
     background-size:cover;
     height: 100vh;
@@ -474,7 +474,7 @@ header{
 /* background4 starts here (4th section) */
 
 .background4{
-    background-image: url(images/nightsky3.jpg);
+    background-image: url(../images/nightsky3.jpg);
     background-repeat: no-repeat;
     background-size:cover;
     height: 100vh;
@@ -511,7 +511,7 @@ header{
 /* slides-background5 starts here (slides) */
 
 .background5{
-    background-image: url(images/starlink2.jpg);
+    background-image: url(../images/starlink2.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -542,7 +542,7 @@ header{
 }
 
 .background5 .slide1{
-    background-image: url(images/nightsky4a.jpg);
+    background-image: url(../images/nightsky4a.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -562,7 +562,7 @@ header{
 }
 
 .background5 .slide2{
-    background-image: url(images/nightsky4b.jpg);
+    background-image: url(../images/nightsky4b.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -582,7 +582,7 @@ header{
 }
 
 .background5 .slide3{
-    background-image: url(images/nightsky4c.jpg);
+    background-image: url(../images/nightsky4c.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -602,7 +602,7 @@ header{
 }
 
 .background5 .slide4{
-    background-image: url(images/nightsky4d.jpg);
+    background-image: url(../images/nightsky4d.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -622,7 +622,7 @@ header{
 }
 
 .background5 .slide5{
-    background-image: url(images/nightsky4e.jpg);
+    background-image: url(../images/nightsky4e.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -644,7 +644,7 @@ strong{
 /* background6 starts here (6th section) */
 
 .background6{
-    background-image: url(images/nightsky5.jpg);
+    background-image: url(../images/nightsky5.jpg);
     background-repeat: no-repeat;
     background-size:cover;
     height: 100vh;
@@ -679,7 +679,7 @@ strong{
 /* background7 starts here (7th section) */
 
 .background7{
-    background-image: url(images/nightsky6a.png);
+    background-image: url(../images/nightsky6a.png);
     background-repeat: no-repeat;
     background-size:cover;
     height: 100vh;
